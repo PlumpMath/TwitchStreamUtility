@@ -1,0 +1,17 @@
+C:\TwitchStreams\TwitchStreams\bin\Release\Newtonsoft.Json.dll
+C:\TwitchStreams\TwitchStreams\bin\Release\Newtonsoft.Json.xml
+C:\TwitchStreams\TwitchStreams\obj\Release\TwitchStreams.TwitchStreamForm.resources
+C:\TwitchStreams\TwitchStreams\obj\Release\TwitchStreams.Properties.Resources.resources
+C:\TwitchStreams\TwitchStreams\obj\Release\TwitchStreams.csproj.GenerateResource.Cache
+C:\TwitchStreams\TwitchStreams\bin\Release\Twitch Stream Utility.exe.config
+C:\TwitchStreams\TwitchStreams\bin\Release\Twitch Stream Utility.exe.manifest
+C:\TwitchStreams\TwitchStreams\bin\Release\Twitch Stream Utility.application
+C:\TwitchStreams\TwitchStreams\bin\Release\Twitch Stream Utility.exe
+C:\TwitchStreams\TwitchStreams\bin\Release\Twitch Stream Utility.pdb
+C:\TwitchStreams\TwitchStreams\obj\Release\Twitch Stream Utility.exe.manifest
+C:\TwitchStreams\TwitchStreams\obj\Release\Twitch Stream Utility.application
+C:\TwitchStreams\TwitchStreams\obj\Release\Twitch Stream Utility.exe
+C:\TwitchStreams\TwitchStreams\obj\Release\Twitch Stream Utility.pdb
+C:\TwitchStreams\Utility\TwitchStreams\bin\Release\Twitch Stream Utility.exe.config
+C:\TwitchStreams\Utility\TwitchStreams\obj\Release\Twitch Stream Utility.exe
+C:\TwitchStreams\Utility\TwitchStreams\obj\Release\Twitch Stream Utility.pdb
